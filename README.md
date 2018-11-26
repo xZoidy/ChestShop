@@ -1,8 +1,8 @@
 # ChestShop
-[![](https://poggit.pmmp.io/shield.state/ChestShop)](https://poggit.pmmp.io/p/ChestShop)
+[![](https://poggit.pmmp.io/shield.state/ChestShop)](https://poggit.pmmp.io/ci/tim03we/ChestShop/)
 
 Chest shop allows you to create Chest GUI based shops - a widely used feature in minigames such as MoneyWars, SkyBlock and SkyWars.
-If you are looking for a compressed .phar file, go here: https://poggit.pmmp.io/ci/Muqsit/ChestShop/ChestShop
+If you are looking for a compressed .phar file, go here: https://poggit.pmmp.io/ci/tim03we/ChestShop/
 
 **NOTE:** ChestShop depends upon EconomyAPI for transactions, you must have **EconomyAPI** plugin installed before running the plugin.
 
