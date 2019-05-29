@@ -28,3 +28,5 @@ Neato! Let's add some items to our category using `/cs additem <category name> <
 ![](https://i.imgur.com/fF8gPap.png)
 
 Awesome! You might be wondering what the 2 papers and one chest is doing in the last row of the GUI. The two papers turn towards the left/right page in case you have more than 45 items in your category. The chest in the middle of the two papers bring you back to the list of categories (`/chestshop`).
+
+#### IMPROVED
